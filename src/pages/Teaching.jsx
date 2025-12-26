@@ -25,10 +25,11 @@ export default function Teaching() {
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {[
-            "C Programming",
             "Java Programming",
+            "Python Programming",
             "Android Application Development",
             "Computer Networks",
+            "Wireless Sensor Networks",
             "Artificial Intelligence",
             "Machine Learning",
             "Deep Learning",
@@ -49,8 +50,8 @@ export default function Teaching() {
 
 
       {/* ================= FOOTER ================= */}
-      <footer className="border-t border-white/10 py-6 text-center text-slate-500 text-sm">
-        © {new Date().getFullYear()} Dr. P. Chitralingappa · Teaching Portfolio
+       <footer className="border-t border-white/10 py-6 text-center text-slate-500 text-sm">
+        © {new Date().getFullYear()} Dr. P. Chitralingappa · Academic Portfolio
       </footer>
     </div>
   );
