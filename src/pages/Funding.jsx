@@ -17,7 +17,7 @@ export default function Funding() {
       year: "Ongoing",
       role: "Co-Investigator",
       description:
-        "A Cognitive Psychology–Inspired Dual-System Reasoning Framework for Safe and Adaptive Decision-Making in Autonomous Vehicles under ANRF – MAHA: AISE. (Project Cost: Rs. 1 Crore).",
+        "A Cognitive Psychology–Inspired Dual-System Reasoning Framework for Safe and Adaptive Decision-Making in Autonomous Vehicles under ANRF – MAHA: AISE. (Project Cost: Rs. 10 Crore).",
     },
   ];
 

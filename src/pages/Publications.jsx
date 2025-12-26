@@ -76,7 +76,7 @@ export default function Publications() {
             <table className="w-full table-fixed border-collapse text-sm text-slate-300">
 
               <thead className="bg-white/10 text-slate-200 uppercase text-xs tracking-wider">
-                <tr>
+                <tr align="center">
                   <th className="px-6 py-4 w-16 text-left">S.No.</th>
                   <th className="px-6 py-4 w-[26rem] text-left">Title</th>
                   <th className="px-6 py-4 w-52 text-left">Publisher</th>
